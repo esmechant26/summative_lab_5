@@ -1,0 +1,27 @@
+.shop-header {
+  max-width: 720px;
+  margin: 0 auto 1.75rem;
+  text-align: center;
+}
+
+.shop-header h1 {
+  margin-bottom: 0.65rem;
+  color: #0f172a;
+}
+
+.shop-header p {
+  margin: 0;
+  color: #475569;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+.shop-actions {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0 2rem;
+}
+
+.shop-actions .action-button {
+  width: fit-content;
+}
